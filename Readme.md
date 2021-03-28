@@ -2,7 +2,7 @@
 
 ### 1.Introduction
 
-This folder is the final project for competetive data science, I get the public score of 0.85573, which is ranked 141/10755 in the public leader board 
+This folder is the final project for competetive data science, I get the public score of `0.85573`, which is ranked `141/10755` in the public leader board 
 
 
 ### 2. Running requirements
